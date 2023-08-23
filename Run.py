@@ -1,1 +1,1 @@
-import hamzaan_enc
+import hamza2_enc
